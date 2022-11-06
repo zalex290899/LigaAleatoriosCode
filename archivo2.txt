@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hola mundo 2
-=======
-hola amigo
->>>>>>> ramab
