@@ -17,7 +17,7 @@ struct Club
     int MP, W, D, L, GF, GA, GD, PTS, ID;
 };
 
-//vector donde se guardan los clubes que jugaran la liga
+//vector donde se guardan los clubes que jugaran la liga xd
 vector<Club> clubesLaLiga;
 
 //variables globales
